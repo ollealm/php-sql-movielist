@@ -9,3 +9,7 @@ A move database where you can post, edit and delete movies. An introduction to P
 - Prepared Statements
 - phpMyAdmin
 - Bootstrap 4
+
+## Screenshot
+
+![Screenshot](screenshot.jpg)
