@@ -37,7 +37,7 @@
           if ($resultCheck > 0) {
             // whileloop som skriver ut resultatet i html för varje rad i svaret
             while ($row = mysqli_fetch_assoc($result)) {
-              /* echo html med HEREDOC syntax för enkel hantering av variablerna
+              /* echo html med HEREDOC   för enkel hantering av variablerna
               edit-button som laddar om sidan med filmens id som GET
               delete-button som anropar formuläret 'delete' med id som POST */ 
               echo <<<TABLE
